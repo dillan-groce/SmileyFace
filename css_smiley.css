@@ -9,3 +9,15 @@
     background-color: yellow;
     border-radius: 50px;
 }
+
+.lefteye{
+    width: 6px;
+    height: 6px;
+    border: solid 1px black;
+    border-radius: 3px;
+    z-index: 1;
+    position: relative;
+    left: 32px;
+    top: 26px;
+    background: black;
+}
